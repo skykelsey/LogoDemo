@@ -1,0 +1,16 @@
+# Mac OS
+.DS_Store
+
+# Gradle
+.gradle
+
+# Android
+/local.properties
+/captures
+
+# IntelliJ
+*.iws
+/.idea/tasks.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+/.idea/libraries
